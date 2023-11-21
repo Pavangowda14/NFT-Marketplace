@@ -1,0 +1,5 @@
+/* Navbar.css */
+.react-switch-checkbox:checked {
+    background-color: #ffffff;
+    /* Change this to your desired background color */
+}
